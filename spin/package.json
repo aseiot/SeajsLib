@@ -1,0 +1,11 @@
+{
+	"name": "spin",
+	"version": "1.0.0",
+	"dependencies":{
+		"$":"$",
+		"jquery":"1.7.2"
+	},
+	"output": {
+		"spin.js": "."
+	}
+}
